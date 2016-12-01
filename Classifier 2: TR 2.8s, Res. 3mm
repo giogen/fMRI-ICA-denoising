@@ -1,0 +1,10 @@
+Link to ICA denoising classifier for task-based fMRI data.
+
+Trained and cross-validated with over 100 sessions of fMRI data.
+
+Works best with data with TR in the 2-3s range and standard spatial resolution.
+
+TR = 2.8 second
+Resolution = 3 mm x 3 mm x 3 mm
+
+https://www.dropbox.com/s/ym7jjatkzjetb81/FIX_ICA_clean_taskbased_TR2_8_3_mm.RData?dl=0
